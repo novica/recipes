@@ -3,5 +3,5 @@
 * Chikcpeas
 * Lemon
 * Olive oil 
-* Cilantro
+* Cilantro x 4
 * Water
