@@ -1,2 +1,4 @@
 *.png
-recipts/
+recipts/*
+!final.png
+recipts/data
