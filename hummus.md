@@ -1,7 +1,7 @@
 # Hummus
 ## Ingredients
 * Chikcpeas
-* Lemon
+* Lemon X 2
 * Olive oil 
 * Cilantro
 * Water
