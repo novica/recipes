@@ -1,6 +1,5 @@
-Hummus
-Ingredients
-chickpeas
-lemon
-olive oil
-salt
+# Hummus
+## Ingredients
+* Chikcpeas
+* Lemon
+* Olive oil 
